@@ -305,7 +305,7 @@ else
     warn('Unsupported PlaceID: ' .. placeId)
     ShowNotification(
         'Ertis Hub - Unsupported Game',
-        'Ertis Hub currently only supports The Corner and MIC UP.\nUniversal script coming soon!\nPlaceID: ' .. placeId,
+        'Ertis Hub currently only supports The Corner, MIC UP and Polish Voice.\nUniversal script coming soon!\nPlaceID: ' .. placeId,
         8
     )
     PlayErrorSound()
