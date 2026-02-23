@@ -46,7 +46,8 @@ local supportedGames = {
     [131618503757375] = "corner", -- 18+
     [134053763526441] = "corner", -- 18+
     [135694803812056] = "corner", -- 18+
-    [138729565691556] = "corner" -- 18+
+    [138729565691556] = "corner", -- 18+
+    [118475912257657] = "PolishVoice"
 }
 
 -- Function to play error sound
